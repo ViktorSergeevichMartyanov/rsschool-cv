@@ -66,3 +66,10 @@ This code does not execute properly. Try to figure out why. ```c function multip
 
 ## Experience
 No work experience in the field of IT development
+
+## Languages
+- **Russian** – Native
+- **English** – A1 (Beginner). (according to the online test www.efset.org)
+
+![qewr](https://user-images.githubusercontent.com/95199925/147632128-561e4a7b-b427-4aa3-9532-7759f36bb690.png)
+
