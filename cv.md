@@ -42,9 +42,9 @@ I am interested in the IT sphere, I thoroughly decided to master it. I hope that
 **University:** Saratov State Technical University named after Y.A Gagarin (SSTU)
 
 <details>
-<summary>Training program</summary>
+    <summary>Training program</summary>
 <ul>
-<li>Department of Welding and Metallurgy (CM) Bachelor Of the year 2014-2018</li>
+<li>Department of Welding and Metallurgy (CM) Bachelor Of the year 2014-2018.</li>
 <li>Design and technological support of machine-building industries (KTOP) Magistracy Of the year 2019-2021.</li>
     </ul>
 </details>
