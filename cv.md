@@ -62,7 +62,7 @@ This code does not execute properly. Try to figure out why. ```c function multip
 ![2222](https://user-images.githubusercontent.com/95199925/147631898-da69c301-4a97-43ab-8bfb-185e4c9fae7d.png)
 
 ## Completed projects
-- **GitHub:** - [CV](https://github.com/ViktorSergeevichMartyanov/rsschool-cv/commit/6b0b6ec2806b9bba4ae64b98a742b1dd01832e75)
+- **GitHub:** - [CV](https://ViktorSergeevichMartyanov.github.io/rsschool-cv/cv)
 
 ## Experience
 No work experience in the field of IT development
